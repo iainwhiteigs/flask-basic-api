@@ -1,1 +1,1 @@
-# flask-basic-api
+Just a stupid API to assist with connectivity testing
